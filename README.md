@@ -12,11 +12,11 @@ text
 library-management/
 ¦
 +-- src/                       ? Code source Python
-¦   +-- livre.py               ? Classe Livre (Book)
-¦   +-- utilisateur.py         ? Classe Utilisateur (User)
-¦   +-- emprunt.py             ? Classe Emprunt (Loan)
-¦   +-- bibliotheque.py        ? Classe Bibliothèque (Library)
-¦   +-- main.py                ? Fichier principal d'exécution
+¦      +-- livre.py               ? Classe Livre (Book)
+¦      +-- utilisateur.py         ? Classe Utilisateur (User)
+¦      +-- emprunt.py             ? Classe Emprunt (Loan)
+¦      +-- bibliotheque.py        ? Classe Bibliothèque (Library)
+¦      +-- main.py                ? Fichier principal d'exécution
 ¦
 +-- uml/                       ? Diagramme de classes UML
 ¦   +-- library_diagram.puml   ? Diagramme UML (PlantUML ou image)
